@@ -1,0 +1,9 @@
+README
+
+Hmmm... 
+So let's try and reduce the need to download and upload a php file while trying to fix a few issues. Sometimes a PHP file has to be tested in a specific environment and frequence upload and test takes lot of time. 
+Similar to the wordpress editor which allows editing files and saving the changes.
+
+This version is the editor and previewer. Please check the other version for editing existing files via browser editor and saving them directly on the server.
+
+v9.8 Editor and Previewer : Let's Start
